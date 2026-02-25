@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente curso Análise e Des
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDecolasDev&theme=tokyonight)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDecolasDev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroDecolasDev&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDecolasDev&theme=tokyonight)
+|  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDecolasDev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroDecolasDev&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDecolasDev&theme=tokyonight)|
 |:-:|:-:|:-:|
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
