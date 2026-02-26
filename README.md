@@ -1,7 +1,7 @@
 <h1>You're Welcome!</h1>
-I am a developer focused on building functional, scalable solutions. My journey in technology is built on a solid academic foundation: I started with technical training at ETEC, progressed into Systems Analysis at IFSP, and am currently deepening my expertise in the Java ecosystem through Instituto Hardware BR.
+I am a developer focused on building functional, scalable solutions. My journey in technology is built on a solid academic foundation: I started with technical training at ETEC, progressed into Systems Analysis at IFSP, and am currently deepening my expertise in the Java ecosystem through Instituto Hardware BR.<br>
 
-Beyond the Code:
+<h2>Beyond the Code:</h2>
 Outside of development, I look for references in planning and strategy—whether exploring new geographic contexts or analyzing design mechanics in major gaming franchises. This multidisciplinary perspective helps me maintain a sharp focus on detail and the final user experience.
 
 <h2>My Tools</h2>
