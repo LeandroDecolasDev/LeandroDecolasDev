@@ -4,17 +4,24 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente curso Análise e Des
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDecolasDev&theme=tokyonight)
-<br>
-|  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDecolasDev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroDecolasDev&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDecolasDev&theme=tokyonight)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDecolasDev&theme=tokyonight) |
+|:-:|
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDecolasDev&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroDecolasDev&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDecolasDev&theme=tokyonight)|
 |:-:|:-:|:-:|
+</div>
+
+<img align="right" alt="penguin" height=470 src="https://imgur.com/gallery/club-penguin-iwv4fig#SPWma7T.png"/>
+
+<div align="center">
+  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDecolasDev&layout=donut)](https://github.com/LeandroDecolasDev/github-readme-stats)
 </div>
+
 <!-- 
 <picture>
   <source
