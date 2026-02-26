@@ -36,7 +36,7 @@ Outside of development, I look for references in planning and strategy—whether
 
 [![GMAIL](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail)](mailto:leandro.decolas1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodiasdecolas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://https://leandro-dias.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://leandro-dias.netlify.app)
 
 </div>
 
