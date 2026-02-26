@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente curso Análise e Des
 |:-:|:-:|:-:|
 </div>
 
-<img align="right" alt="penguin" height=470 src="https://imgur.com/gallery/club-penguin-iwv4fig#SPWma7T.png"/>
+<img align="right" heigh="470" alt="Penguim que Dança" src="https://i.imgur.com/SPWma7T.gif"/>
 
 <div align="center">
   
@@ -19,6 +19,9 @@ Sou um desenvolvedor apaixonado por tecnologia e atualmente curso Análise e Des
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![NODE](https://img.shields.io/badge/NodeJs-bce33b?style=for-the-badge&logo=node.js)
+
+![GMAIL](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail)
 
 </div>
 
