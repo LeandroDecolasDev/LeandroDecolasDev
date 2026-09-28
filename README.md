@@ -15,8 +15,6 @@ Outside of development, I look for references in planning and strategy—whether
 |:-:|:-:|:-:|
 </div>
 
-<img align="right" height="600" alt="Penguim que Dança" src="https://i.imgur.com/SPWma7T.gif"/>
-<img align="left" height="600" alt="Penguim que Dança" src="https://i.imgur.com/SPWma7T.gif"/>
 <div align="center" >
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
