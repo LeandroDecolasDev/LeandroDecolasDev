@@ -39,17 +39,3 @@ Outside of development, I look for references in planning and strategy—whether
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://leandro-dias.netlify.app)
 
 </div>
-
-<!-- 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroDecolasDev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
--->
